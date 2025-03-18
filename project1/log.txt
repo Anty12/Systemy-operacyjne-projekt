@@ -1,0 +1,206 @@
+/home/null/Desktop/studia/6_semestr/systemy_operacyjne/projekt/project1/project1 10
+Create 10 philosophers
+Press enter to exit the program
+Philosopher 1 thinking
+Philosopher 2 thinking
+Philosopher 6 thinking
+Philosopher 3 thinking
+Philosopher 4 thinking
+Philosopher 9 thinking
+Philosopher 8 thinking
+Philosopher 7 thinking
+Philosopher 10 thinking
+Philosopher 5 thinking
+Philosopher 6 eats
+Philosopher 8 eats
+Philosopher 10 eats
+Philosopher 3 eats
+Philosopher 8 puts down fork
+Philosopher 8 thinking
+Philosopher 3 puts down fork
+Philosopher 3 thinking
+Philosopher 2 eats
+Philosopher 6 puts down fork
+Philosopher 6 thinking
+Philosopher 7 eats
+Philosopher 5 eats
+Philosopher 10 puts down fork
+Philosopher 10 thinking
+Philosopher 9 eats
+Philosopher 2 puts down fork
+Philosopher 2 thinking
+Philosopher 1 eats
+Philosopher 9 puts down fork
+Philosopher 9 thinking
+Philosopher 5 puts down fork
+Philosopher 5 thinking
+Philosopher 4 eats
+Philosopher 7 puts down fork
+Philosopher 7 thinking
+Philosopher 8 eats
+Philosopher 6 eats
+Philosopher 1 puts down fork
+Philosopher 1 thinking
+Philosopher 10 eats
+Philosopher 4 puts down fork
+Philosopher 4 thinking
+Philosopher 3 eats
+Philosopher 8 puts down fork
+Philosopher 8 thinking
+Philosopher 6 puts down fork
+Philosopher 6 thinking
+Philosopher 7 eats
+Philosopher 5 eats
+Philosopher 10 puts down fork
+Philosopher 10 thinking
+Philosopher 9 eats
+Philosopher 3 puts down fork
+Philosopher 3 thinking
+Philosopher 2 eats
+Philosopher 2 puts down fork
+Philosopher 2 thinking
+Philosopher 1 eats
+Philosopher 5 puts down fork
+Philosopher 5 thinking
+Philosopher 4 eats
+Philosopher 7 puts down fork
+Philosopher 7 thinking
+Philosopher 6 eats
+Philosopher 9 puts down fork
+Philosopher 9 thinking
+Philosopher 8 eats
+Philosopher 1 puts down fork
+Philosopher 1 thinking
+Philosopher 10 eats
+Philosopher 6 puts down fork
+Philosopher 6 thinking
+Philosopher 4 puts down fork
+Philosopher 4 thinking
+Philosopher 3 eats
+Philosopher 5 eats
+Philosopher 8 puts down fork
+Philosopher 8 thinking
+Philosopher 7 eats
+Philosopher 10 puts down fork
+Philosopher 10 thinking
+Philosopher 9 eats
+Philosopher 5 puts down fork
+Philosopher 5 thinking
+Philosopher 3 puts down fork
+Philosopher 3 thinking
+Philosopher 4 eats
+Philosopher 2 eats
+Philosopher 7 puts down fork
+Philosopher 7 thinking
+Philosopher 6 eats
+Philosopher 2 puts down fork
+Philosopher 2 thinking
+Philosopher 1 eats
+Philosopher 4 puts down fork
+Philosopher 4 thinking
+Philosopher 9 puts down fork
+Philosopher 9 thinking
+Philosopher 8 eats
+Philosopher 3 eats
+Philosopher 6 puts down fork
+Philosopher 6 thinking
+Philosopher 5 eats
+Philosopher 8 puts down fork
+Philosopher 8 thinking
+Philosopher 7 eats
+Philosopher 3 puts down fork
+Philosopher 3 thinking
+Philosopher 1 puts down fork
+Philosopher 1 thinking
+Philosopher 2 eats
+Philosopher 10 eats
+Philosopher 7 puts down fork
+Philosopher 7 thinking
+Philosopher 5 puts down fork
+Philosopher 5 thinking
+Philosopher 4 eats
+Philosopher 6 eats
+Philosopher 10 puts down fork
+Philosopher 10 thinking
+Philosopher 9 eats
+Philosopher 6 puts down fork
+Philosopher 6 thinking
+Philosopher 2 puts down fork
+Philosopher 2 thinking
+Philosopher 1 eats
+Philosopher 4 puts down fork
+Philosopher 4 thinking
+Philosopher 3 eats
+Philosopher 5 eats
+Philosopher 9 puts down fork
+Philosopher 8 eats
+Philosopher 9 thinking
+Philosopher 1 puts down fork
+Philosopher 1 thinking
+Philosopher 10 eats
+Philosopher 3 puts down fork
+Philosopher 3 thinking
+Philosopher 2 eats
+Philosopher 5 puts down fork
+Philosopher 5 thinking
+Philosopher 4 eats
+Philosopher 8 puts down fork
+Philosopher 8 thinking
+Philosopher 7 eats
+Philosopher 10 puts down fork
+Philosopher 10 thinking
+Philosopher 9 eats
+Philosopher 2 puts down fork
+Philosopher 2 thinking
+Philosopher 1 eats
+Philosopher 7 puts down fork
+Philosopher 7 thinking
+Philosopher 6 eats
+Philosopher 4 puts down fork
+Philosopher 4 thinking
+Philosopher 3 eats
+Philosopher 9 puts down fork
+Philosopher 9 thinking
+Philosopher 8 eats
+Philosopher 1 puts down fork
+Philosopher 1 thinking
+Philosopher 10 eats
+Philosopher 3 puts down fork
+Philosopher 3 thinking
+Philosopher 2 eats
+Philosopher 8 puts down fork
+Philosopher 8 thinking
+Philosopher 6 puts down fork
+Philosopher 6 thinking
+Philosopher 7 eats
+Philosopher 5 eats
+
+Waiting for threads to close
+Philosopher 10 puts down fork
+Philosopher 9 eats
+Philosopher 2 puts down fork
+Philosopher 1 eats
+Philosopher 7 puts down fork
+Philosopher 5 puts down fork
+Philosopher 6 eats
+Philosopher 4 eats
+Philosopher 9 puts down fork
+Philosopher 8 eats
+Philosopher 1 puts down fork
+Thread 1 close
+Thread 2 close
+Philosopher 4 puts down fork
+Philosopher 3 eats
+Philosopher 6 puts down fork
+Philosopher 3 puts down fork
+Thread 3 close
+Thread 4 close
+Thread 5 close
+Thread 6 close
+Thread 7 close
+Philosopher 8 puts down fork
+Thread 8 close
+Thread 9 close
+Thread 10 close
+
+Process finished with exit code 0
