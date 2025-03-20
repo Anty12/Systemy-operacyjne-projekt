@@ -6,6 +6,11 @@ Pięciu filozofów siedzi przy stole i każdy wykonuje jedną z dwóch czynnośc
 - **philosopher** - wątek filozofa, który je (korzysta z zasobu) oraz (myśli)
 ### Sekcje krytyczne
 - Dostęp do widelców - aby rozwiązać problem zakleszczenia, użyłem metody hierachi zasobów, czyli zasoby(widelce) są uporządkowane (mają ID) i podczas brania zasobów wątek(filozof) musi uzyskiwać dostęp od zasobu od najmniejszego ID do największego. Aby zapewnić prawidłowy dostęp, do odczyty zasobów użyłem własnych semaforów i operacji atomowych.
+### Budowanie projektu
+Aby zbudować projekt, należy wykonać następujące komendy:
+- cmake .
+- make
+Wymagana minimalna wersja cmake: 3.30. Kompilowanie zgodnie ze standardem C++20.
 ### Instrukcja uruchomienia
 Aby uruchomić program należy jako argument podać ilość uruchamianych filozofów, przykład: project1 8 .
 ### Dodatek - program test
